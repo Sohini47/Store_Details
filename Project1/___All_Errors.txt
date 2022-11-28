@@ -1,0 +1,18 @@
+CorrelationId: e3534a6b-749b-4ef0-967f-3fd394f38846
+UTC DateTime: 11/28/2022 07:03:29
+
+The following files/folders have not been downloaded
+0. Project1/project_frontend/node_modules/loader-utils/node_modules/json5
+1. Project1/project_frontend/node_modules/load-json-file
+2. Project1/project_frontend/node_modules/locate-path
+3. Project1/project_frontend/node_modules/lodash
+4. Project1/project_frontend/node_modules/lodash._reinterpolate
+5. Project1/project_frontend/node_modules/lodash.camelcase
+6. Project1/project_frontend/node_modules/lodash.debounce
+7. Project1/project_frontend/node_modules/lodash.memoize
+8. Project1/project_frontend/node_modules/lodash.sortby
+9. Project1/project_frontend/node_modules/lodash.tail
+10. Project1/project_frontend/node_modules
+11. Project1/project_frontend/public
+12. Project1/project_frontend/src
+13. Project1/ProjectBackend
